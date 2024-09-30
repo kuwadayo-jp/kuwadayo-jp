@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+## Hello,I'm kuwa!
+I'm currently studying web development.
+
+### Learning
+- **Language**: JavaScript
+- **Frameworks**: React Node.js
+- **Tools**: VS code Git
+
+
 <!--
 **kuwadayo-jp/kuwadayo-jp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
